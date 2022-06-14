@@ -1,3 +1,10 @@
+//
+//  main.c
+//  class2
+//
+//  Created by 강인혜 on 2022/06/14.
+//
+
 //#include <stdio.h>
 //#include <string.h>
 
@@ -513,8 +520,8 @@
 //{
 //    int arr[3]={15, 25, 35};
 //    int* ptr = arr;
-//    
-//    
+//
+//
 //}
 
 
