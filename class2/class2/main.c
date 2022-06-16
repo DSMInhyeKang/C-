@@ -590,6 +590,8 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <math.h>
+#include <stdlib.h>
 
 //struct employee
 //{
@@ -607,14 +609,97 @@
 //}
 
 
-int main()
-{
-    int i=1, n;
-    scanf("%d", &n);
+//int main()
+//{
+//    int i=1, n;
+//    scanf("%d", &n);
+//
+//    while (i<=n) {
+//        printf("%d\n", i++);
+//    }
+//
+//    return 0;
+//}
+
+
+
+//제곱근 값 출력
+//typedef struct point {
+//    double x;
+//    double y;
+//}P;
+//
+//
+//int main()
+//{
+//    P p1, p2;
+//    double num;
+//
+//    scanf("%lf %lf", &p1.x, &p1.y);
+//    scanf("%lf %lf", &p2.x, &p2.y);
+//
+//    num=(p2.x-p1.x)*(p2.x-p1.x)+(p2.y-p1.y)*(p2.y-p1.y);
+//
+//    printf("%.2lf", sqrt(num)); //#include <math.h>
+//
+//    return 0;
+//}
+
+
     
-    while (i<=n) {
-        printf("%d\n", i++);
-    }
-    
-    return 0;
-}
+//typedef struct point {
+//    int x, y;
+//}P;
+//
+//struct rec {
+//    P p1, p2;
+//};
+//
+//int check(int n) {
+//    if(n<0) return n * -1;
+//    return n;
+//}
+//
+//int main()
+//{
+//    struct rec pos;
+//    int result;
+//    printf("두 점의 좌표를 입력받아 넓이를 출력하시오.\n");
+//    printf("첫번째 점의 좌표 (x y) : ");
+//    scanf("%d %d", &pos.p1.x, &pos.p1.y);
+//    printf("두번째 점의 좌표 (x y) : ");
+//    scanf("%d %d", &pos.p2.x, &pos.p2.y);
+//
+//    result = (pos.p2.x - pos.p1.x) * (pos.p2.y - pos.p1.y);
+//
+//    printf("%d\n", check(result));
+//
+//    return 0;
+//}
+
+
+
+
+//int main()
+//{
+//    int a, b;
+//
+//    for (int i=0; ; i++) {
+//        if (a>0&&b<10)
+//            scanf("%d %d ", &a, &b);
+//
+//        printf("%d", a+b);
+//
+//        else
+//            break;
+//    }
+//
+//    return 0;
+//}
+
+
+//1 1
+//2 3
+//3 4
+//9 8
+//5 2
