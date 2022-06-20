@@ -703,3 +703,44 @@
 //3 4
 //9 8
 //5 2
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#define SIZE 3
+
+//struct student {
+//    int number;
+//    char name[20];
+//    double grade;
+//};
+//
+//int main()
+//{
+//    struct student arr[SIZE];
+//
+//    for(int i = 0; i < SIZE; i++)
+//    {
+//        printf("학번 입력 : ");
+//        scanf("%d", &arr[i].number);
+//
+//        printf("이름 입력 : ");
+//        scanf("%s", arr[i].name);
+//
+//        printf("학점 입력 : ");
+//        scanf("%lf", &arr[i].grade);
+//    }
+//
+//    for(int i = 0; i < SIZE; i++)
+//    {
+//        printf("학번 : %d, 이름 : %s. 학점 : %lf", arr[i].number, arr[i].name, arr[i].grade);
+//    }
+//
+//
+//
+//    return 0;
+//}
+
+
+
+
