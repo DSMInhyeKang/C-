@@ -4,7 +4,7 @@
 //
 //  Created by 강인혜 on 2022/06/22.
 //
-
+ 
 //#include <stdio.h>
 //#include <string.h>
 
@@ -708,7 +708,7 @@
 //#include <stdio.h>
 //#include <stdlib.h>
 //#define SIZE 3
-
+//
 //struct student {
 //    int number;
 //    char name[20];
@@ -740,3 +740,22 @@
 //
 //    return 0;
 //}
+
+
+/*
+ found a solution ; "Undefined symbol: _main"
+ 주석 다 하지 말고 마지막 프로그램 하나 남겨 놓기
+ 
+ found a solution ; "Could not launch ~~~~ is not currently connected"
+ 
+ cmd+R 할 때 실행 되는 게 My Mac(Rosetta)로 돌아가는지 확인
+ */
+
+
+
+#include <stdio.h>
+
+int main()
+{
+    return 0;
+}
