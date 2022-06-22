@@ -1,8 +1,8 @@
 //
 //  main.c
-//  class2
+//  class3
 //
-//  Created by 강인혜 on 2022/06/14.
+//  Created by 강인혜 on 2022/06/22.
 //
 
 //#include <stdio.h>
